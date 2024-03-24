@@ -5,15 +5,15 @@ The "Bash-Based Database Management System (DBMS) - ITI" project is a command-li
 -Project Overview:
   The system will offer a graphical user interface (GUI) through a menu-driven application. Users will have access to a range of functionalities through this GUI.
 
--Main Menu Options:
+1- Main Menu Options:
 
-1- Create a New Database
-2- Listing Databases
-3- Connect to a Database
-4- Delete an Existing Database
+- Create a New Database
+- Listing Databases
+- Connect to a Database
+- Delete an Existing Database
 
 
--Table Operations Menu:
+2- Table Operations Menu:
 
 1. Create a New Table
 2. View Tables in a Database
@@ -31,9 +31,12 @@ The "Bash-Based Database Management System (DBMS) - ITI" project is a command-li
   a. update a specific column 
   b. update a specific row 
 8. back to main menu
-Navigation Options:
+
+
+- Navigation Options:
 
 Return to the Previous Menu (either from Table or Main menu)
-Instructions to Execute the Application:
+- Instructions to Execute the Application:
 Navigate to the cloned directory and run the following command in the terminal:
+
 .  ~/project.sh
